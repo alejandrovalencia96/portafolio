@@ -105,6 +105,14 @@
           window.open('https://victoriadelacruz.com/', '_blank');
           break;
 
+          case "batatabit":
+          window.open('batatabit/index.html', '_blank');
+          break;
+
+          case "simondice":
+          window.open('simondice/index.html', '_blank');
+          break;
+
           
         
       }
