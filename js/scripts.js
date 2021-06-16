@@ -121,7 +121,7 @@
           window.open('https://kohlcolombia.com/', '_blank');
           break;
 
-          
+          //paginas
         
       }
 
