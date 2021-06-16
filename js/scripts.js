@@ -113,6 +113,14 @@
           window.open('simondice/index.html', '_blank');
           break;
 
+          case "myebooktransfer":
+          window.open('https://myebooktransfer.com/', '_blank');
+          break;
+
+          case "kohl":
+          window.open('https://kohlcolombia.com/', '_blank');
+          break;
+
           
         
       }
